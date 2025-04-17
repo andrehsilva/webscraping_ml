@@ -1,4 +1,4 @@
-# 📊 ETL de Notebooks do Mercado Livre
+# 📊 ETL de Notebooks/Smartphone do Mercado Livre
 
 Este projeto realiza uma pipeline ETL completa com dados de notebooks do Mercado Livre usando Scrapy e Pandas.
 
