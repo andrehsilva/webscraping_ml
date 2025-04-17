@@ -61,4 +61,4 @@ Abra o notebook `notebooks/etl_pipeline.ipynb` e execute as células.
 ---
 
 ## ✍️ Autor
-André Rodrigues – [linkedin.com/in/andrehsilva](https://linkedin.com/in/andrehsilva)
+André Rodrigues – [linkedin.com/in/andrehrsilva](https://linkedin.com/in/andrehrsilva)
