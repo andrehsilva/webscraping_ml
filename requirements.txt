@@ -1,0 +1,4 @@
+scrapy
+pandas
+jupyter
+openpyxl
