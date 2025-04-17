@@ -23,7 +23,7 @@ Este projeto realiza uma pipeline ETL completa com dados de notebooks do Mercado
 
 ### 3. Carga
 - Exportação dos dados limpos para `.csv` e `.xlsx`.
-- Análises podem ser visualizadas no notebook `etl_pipeline.ipynb`.
+- Análises podem ser visualizadas no notebook `app.ipynb`.
 - Salvando os dados em um banco SQLite
 --Após realizar a coleta e tratamento dos dados, você pode armazená-los em um banco de dados SQLite utilizando o pandas com SQLAlchemy. Isso facilita análises futuras, integrações e consultas SQL.
 
