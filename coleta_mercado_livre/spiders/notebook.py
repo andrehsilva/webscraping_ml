@@ -4,9 +4,9 @@ import scrapy
 class NotebookSpider(scrapy.Spider):
     name = "notebook"
     allowed_domains = ["lista.mercadolivre.com.br"]
-    #start_urls = ["https://lista.mercadolivre.com.br/notebook?sb=rb#D[A:notebook]"]
+    start_urls = ["https://lista.mercadolivre.com.br/notebook?sb=rb#D[A:notebook]"]
 
-    start_urls = ["https://lista.mercadolivre.com.br/smartphone#D[A:smartphone]"]
+    #start_urls = ["https://lista.mercadolivre.com.br/smartphone#D[A:smartphone]"]
     page_count = 1
     max_page = 10
 
